@@ -44,7 +44,7 @@
 
 14. [Python Development](https://github.com/mikeroyal/Autonomous-Systems-Guide#python-development)
 
-15. [R Development](https://github.com/mikeroyal/Autonomous-Systems/-Guide#r-development)
+15. [R Development](https://github.com/mikeroyal/Autonomous-Systems-Guide#r-development)
 
 16. [Julia Development](https://github.com/mikeroyal/Autonomous-Systems-Guide#julia-development)
 
@@ -214,8 +214,6 @@
 
 # Algorithms
 [Back to the Top](https://github.com/mikeroyal/Autonomous-Systems-Guide#table-of-contents)
-
-**[NIST Fingerprint Image Quality algorithms](https://www.nist.gov/services-resources/software/nist-biometric-image-software-nbis#NFIQ)**
 
 [Fuzzy logic](https://www.investopedia.com/terms/f/fuzzy-logic.asp) is a heuristic approach that allows for more advanced decision-tree processing and better integration with rules-based programming.
 
